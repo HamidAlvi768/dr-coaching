@@ -3442,7 +3442,7 @@ fieldset:disabled .btn {
 
 .btn-outline-primary {
     color: #234262;
-    border-color: #234262
+    /* border-color: #234262 */
 }
 
 .btn-outline-primary:hover {
